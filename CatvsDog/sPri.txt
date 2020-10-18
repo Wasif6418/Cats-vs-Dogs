@@ -1,0 +1,5 @@
+		char str[10];
+		int i=5;
+		sprintf(str,"%d",i);
+		iText(100,100,str);
+		i++;
